@@ -1,0 +1,14 @@
+http://youtube.com/maintenance/
+http://youtube.com/adm/
+http://youtube.com/moderator/login.html
+http://youtube.com/moderator/login.php
+http://youtube.com/moderator/admin.php
+http://youtube.com/moderator/admin.html
+http://youtube.com/administrador/
+http://youtube.com/moderator/
+http://youtube.com/moderator/admin.asp
+http://youtube.com/moderator/login.asp
+http://youtube.com/myadmin/
+http://youtube.com/phpmyadmin/
+http://youtube.com/sysadmin/
+http://youtube.com/admins/

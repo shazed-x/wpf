@@ -1,0 +1,9 @@
+https://kali.org# Initialize colorama for cross-platform support
+https://kali.org
+https://kali.org# Disable SSL warnings
+https://kali.org
+https://kali.org# Global counters
+https://kali.org
+https://kali.org
+https://kali.org
+https://kali.org

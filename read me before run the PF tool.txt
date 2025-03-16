@@ -1,0 +1,8 @@
+ must remamber to add "  https:// " add on url
+ 
+🔴 Red → Failed requests (404, errors)
+🟢 Green → Passed requests (200, non-404)
+🟡 Yellow → Informational messages
+
+{for help}  :-$ python pf.py -h
+{example}   :-$ python pf.py -u https://x.com -w wordlist.txt 
